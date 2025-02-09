@@ -6,10 +6,6 @@
 <div>
   <a href="https://www.linkedin.com/in/rafaelczanetti/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-    <a href="mailto:rafaelczanetti@pm.me" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
  </div>
  
 ## Languages and Tools
