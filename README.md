@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://rafaelcavalcantez.com.br">Rafael</a>!</h1>
 <h3 align="center">Welcome to my GitHub profile</h3>
-<p align="center">I am currently studying Computer Science and have an interest in the field of Data Science.</p>
+<p align="center">I am currently studying Computer Science and have an interest in the field of Data Science and CyberSecurity.</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
