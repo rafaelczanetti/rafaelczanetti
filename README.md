@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub profile</h3>
 
 ## 💻 About Me
-    •I am currently studying Computer Science and have an interest in the field of Data Science and CyberSecurity."😊
+    • I am currently studying Computer Science and have an interest in the field of Data Science and CyberSecurity.
 
 <div align="center">
 <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" height="250" alt="GIF_0_1" >
