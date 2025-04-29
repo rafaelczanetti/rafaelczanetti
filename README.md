@@ -8,5 +8,9 @@
   </a>
 </p>
 
+<div align="center">
+<img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" height="250" alt="GIF_0_1" >
+</div>
+
 <p align="center">
 <a href="https://github.com/rafaelczanetti"><img src="https://github-readme-stats.vercel.app/api?username=rafaelczanetti&show_icons=true&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=0D1017&hide_border=true&cache_seconds=2300" alt="GitHub Status"></a>
